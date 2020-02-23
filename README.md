@@ -8,3 +8,9 @@
 * The result sets of both the queries must have same number of columns.
 * The data type of each column in the second result set must match the data type of its corresponding column in the first result set.
 
+## List of the set opertors:
+
+
+
+
+
